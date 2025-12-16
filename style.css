@@ -24,6 +24,18 @@ body {
     background-color: skyblue;
 }
 
+.blue2 {
+    background-color: #00fffb;
+}
+
+.blue4 {
+    background-color: #b1072fb6;
+}
+
+.blue3 {
+    background-color: hsla(280, 100%, 50%, 0.677);
+}
+
 .yellow {
     background-color: yellow;
 }
