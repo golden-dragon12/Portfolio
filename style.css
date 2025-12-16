@@ -6,7 +6,7 @@ body {
 
 .container {
     margin: 0px auto 0px auto;
-    width: 1200px;
+    width: 900x;
 }
 .blue {
     background-color: rgb(73, 73, 231);
@@ -62,4 +62,21 @@ ul li {
 }
 p {
     font-size: 20px;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.link-nav {
+    margin-right: 30px;
+    text-decoration: none;
+    border: 2px double rgb(0, 0, 0);
+    padding: 10px;
+}
+
+.link-nav:hover {
+    background-color: black;
+    color: rgb(255, 255, 255);
 }
