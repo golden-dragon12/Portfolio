@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    margin: 0px auto 0px auto;
+    width: 1200px;
+}
+.blue {
+    background-color: rgb(73, 73, 231);
+}
+
+.orange {
+    background-color: orange;
+}
+
+.green {
+    background-color: green;
+}
+
+.skyblue {
+    background-color: skyblue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+li {
+    color: rgb(0, 0, 0);
+}
+
+footer {
+    background-color: black;
+}
+
+footer p {
+    color: rgb(255, 255, 255);
+}
+
+header {
+    background-color: black;
+    padding: 10px;
+}
+
+.link-header {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.link-header:hover {
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
+
+ul li {
+    font-size: 20px;
+}
+p {
+    font-size: 20px;
+}
